@@ -1,3 +1,4 @@
 # binary-brain
-this is my first repository
-lands like a plane
+this is my first repository.
+<br>
+lands like a plane.
